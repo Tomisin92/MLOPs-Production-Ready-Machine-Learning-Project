@@ -30,3 +30,6 @@ conda activate visa
 ```bash
 pip install -r requirements.txt
 ```
+```bash
+pip list
+```
