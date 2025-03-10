@@ -36,3 +36,16 @@ pip install -r requirements.txt
 ```bash
 pip list
 ```
+
+## Workflow: what to update
+1. constants
+2. entity
+3. components
+4. pipeline
+
+## Export the environment variable
+```bash
+export MONGODB_URL="mongodb+srv://adisaisaac:adisaisaac@cluster0.zw89d.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+```
+
+
