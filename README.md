@@ -48,10 +48,3 @@ pip list
 ```bash
 export MONGODB_URL="mongodb+srv://<username>:<password>>"
 ```
-
-
-
-
-
-
-
