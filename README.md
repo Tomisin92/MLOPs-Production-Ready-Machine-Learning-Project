@@ -47,7 +47,13 @@ pip list
 ## Export the environment variable
 ```bash
 export MONGODB_URL="mongodb+srv://adisaisaac:adisaisaac@cluster0.zw89d.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+export AWS_ACCESS_KEY_ID=<AWS_ACCSS_KEY_ID>
+export AWS_ACCESS_KEY_ID=AKIAYRH5MZKPXNMYUDVQ
+
+export AWS_SECRET_ACCESS_KEY=<AWS_SECRET_ACCSS_KEY>
+export AWS_SECRET_ACCESS_KEY=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
 ```
+
 
 
 
