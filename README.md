@@ -47,9 +47,6 @@ pip list
 ## Export the environment variable
 ```bash
 export MONGODB_URL="mongodb+srv://<username>:<password>>"
-export AWS_ACCESS_KEY_ID=<AWS_ACCSS_KEY_ID>
-
-export AWS_SECRET_ACCESS_KEY=<AWS_SECRET_ACCSS_KEY>
 ```
 
 
