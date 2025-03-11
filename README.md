@@ -46,5 +46,5 @@ pip list
 
 ## Export the environment variable
 ```bash
-export MONGODB_URL="mongodb+srv://<username>:<password>>"
+export MONGODB_URL="mongodb+srv://<your-username>:<your-password>@<your-cluster-url>"
 ```
