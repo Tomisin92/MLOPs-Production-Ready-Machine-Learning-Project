@@ -34,6 +34,7 @@ list_of_files = [
      "setup.py",
      "config/model.yaml",
      "config/schema.yaml",
+     "s3_connection_debug"
  ]
 
 
